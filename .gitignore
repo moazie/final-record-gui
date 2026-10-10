@@ -1,0 +1,4 @@
+target/
+.env
+sqlite/database.db
+migrations/.diesel_lock
